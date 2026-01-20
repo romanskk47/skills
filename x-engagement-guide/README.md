@@ -51,15 +51,9 @@ The algorithm is designed to be **ungameable**. The transformer learns from raw 
 
 ## Installation
 
-### Claude Code CLI
+### Manual Installation
 
-```bash
-claude install github:romanskk47/x-engagement-guide
-```
-
-### Manual
-
-Copy the `SKILL.md` and `references/` folder to your Claude Code skills directory:
+Copy the skill folder to your Claude Code skills directory:
 
 ```
 ~/.claude/skills/x-engagement-guide/

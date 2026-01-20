@@ -1,6 +1,6 @@
 # Claude Code Skills
 
-A collection of skills for [Claude Code](https://claude.ai/claude-code) - Anthropic's official CLI for Claude.
+A collection of skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's official CLI for Claude.
 
 ## Available Skills
 
@@ -10,18 +10,11 @@ A collection of skills for [Claude Code](https://claude.ai/claude-code) - Anthro
 
 ## Installation
 
-### Quick Install (Claude Code CLI)
+Clone and copy to your Claude Code skills directory:
 
 ```bash
-claude install github:romanskk47/skills/x-engagement-guide
-```
-
-### Manual Install
-
-Copy the skill folder to your Claude Code skills directory:
-
-```bash
-cp -r x-engagement-guide ~/.claude/skills/
+git clone https://github.com/romanskk47/skills.git
+cp -r skills/x-engagement-guide ~/.claude/skills/
 ```
 
 ## What are Skills?
